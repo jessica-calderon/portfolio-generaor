@@ -11,10 +11,13 @@
     "url": "git+https://github.com/jessica-calderon/portfolio-generator.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "jessica calderon",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jessica-calderon/portfolio-generator/issues"
   },
-  "homepage": "https://github.com/jessica-calderon/portfolio-generator#readme"
+  "homepage": "https://github.com/jessica-calderon/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.0.4"
+  }
 }
